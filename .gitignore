@@ -1,3 +1,30 @@
+# --- Fichiers sensibles ---
 .env
-.env.local
-router_analysis.csv
+*.key
+*.pem
+
+# --- Données locales ---
+data/
+mlruns/
+__pycache__/
+*.csv
+
+# --- Environnements virtuels ---
+venv/
+.env/
+*.egg-info/
+
+# --- Logs ---
+*.log
+logs/
+app.log
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Node / React frontend ---
+frontend/node_modules/
+frontend/build/
