@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/637794742178563401
+creation_time: 1762363491858
+experiment_id: '637794742178563401'
+last_update_time: 1762363491858
+lifecycle_stage: active
+name: SwitchTransformer_Routing

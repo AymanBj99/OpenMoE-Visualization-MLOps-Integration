@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/637794742178563401/8a4f60ff9cf141bf97fe7fa422080a30/artifacts
+end_time: 1762363523815
+entry_point_name: ''
+experiment_id: '637794742178563401'
+lifecycle_stage: active
+run_id: 8a4f60ff9cf141bf97fe7fa422080a30
+run_name: router_analysis
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762363523554
+status: 3
+tags: []
+user_id: ayman
