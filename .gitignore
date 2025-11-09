@@ -31,3 +31,6 @@ frontend/build/
 
 
 minio/
+Backend/router_analysis.csv
+mlflow/
+mlflow2/
